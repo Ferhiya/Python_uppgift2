@@ -1,9 +1,0 @@
-Kvitto nummer: 0001
-Datum: 16-10-2024 19:56:23
-pepsi max 2 * 19.90 = 39.80 kr
-Chips Sour Cream & Onion 3 * 36.95 = 110.85 kr
-Äpplen 1 * 6.90 = 6.90 kr
-Strösocker 1 * 27.90 = 27.90 kr
-Köttbullar 2 * 70.90 = 141.80 kr
-Total: 327.25 kr
-----------------------------------------------------
