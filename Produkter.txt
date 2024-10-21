@@ -1,0 +1,22 @@
+100,pepsi max,19.90,styck
+101,Mjölk,10,styck
+102,Bröd,22.90,styck
+103,Ägg,30,styck
+104,Smör,25,styck
+105,Basmatiris,42.90,sstyck
+106,Pasta,11.90,styck
+107,Havregrynsgröt,22.90,styck
+108,Yoghurt,19.90,styck
+109,Mjöl,12.90,styck
+110,Strösocker,27.90,styck
+111,Salt,8.59,styck
+112,Bananer,4.50,styck
+113,Äpplen,6.90,styck
+114,Apelsin,5.40,styck
+115,Potatis,17.90,styck
+115,Gurka,14.00,styck
+116,Isbergsallat,17.90,styck
+117,Kyckling,112.90,styck
+118,Kladdkaka,25.90,styck
+119,Köttbullar,70.90,styck
+120,Chips Sour Cream & Onion,36.95,styck
